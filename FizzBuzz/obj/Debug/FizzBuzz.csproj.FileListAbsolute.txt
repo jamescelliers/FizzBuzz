@@ -1,0 +1,6 @@
+C:\Users\James Celliers\Documents\Visual Studio 2015\Projects\FizzBuzz\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\James Celliers\Documents\Visual Studio 2015\Projects\FizzBuzz\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\James Celliers\Documents\Visual Studio 2015\Projects\FizzBuzz\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\James Celliers\Documents\Visual Studio 2015\Projects\FizzBuzz\ConsoleApplication1\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\James Celliers\Documents\Visual Studio 2015\Projects\FizzBuzz\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\James Celliers\Documents\Visual Studio 2015\Projects\FizzBuzz\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
